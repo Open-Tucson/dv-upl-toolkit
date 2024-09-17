@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-16 09:42" -->
+	<!-- generator="WordPress/6.6.2" created="2024-09-17 23:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>UPL Reform Toolkit</title>
-	<link>https://34.46.250.79</link>
+	<link>https://uplpolicytoolkit.org</link>
 	<description></description>
-	<pubDate>Mon, 16 Sep 2024 09:42:59 +0000</pubDate>
+	<pubDate>Tue, 17 Sep 2024 23:42:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://34.46.250.79</wp:base_site_url>
-	<wp:base_blog_url>https://34.46.250.79</wp:base_blog_url>
+	<wp:base_site_url>https://uplpolicytoolkit.org</wp:base_site_url>
+	<wp:base_blog_url>https://uplpolicytoolkit.org</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[dan@opentucson.org]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -75,16 +75,16 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://34.46.250.79/wp-content/uploads/2024/07/i4J-Logo-Square-800px-150x150.png</url>
+	<url>https://uplpolicytoolkit.org/wp-content/uploads/2024/07/i4J-Logo-Square-800px-150x150.png</url>
 	<title>UPL Reform Toolkit</title>
-	<link>https://34.46.250.79</link>
+	<link>https://uplpolicytoolkit.org</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title><![CDATA[i4J Logo-Square-800px]]></title>
-		<link>https://34.46.250.79/?attachment_id=9</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=9</link>
 		<pubDate>Wed, 03 Jul 2024 23:13:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/07/i4J-Logo-Square-800px.png</guid>
@@ -105,7 +105,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/07/i4J-Logo-Square-800px.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/07/i4J-Logo-Square-800px.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/i4J-Logo-Square-800px.png]]></wp:meta_value>
@@ -121,7 +121,7 @@
 							</item>
 					<item>
 		<title><![CDATA[i4J Logo]]></title>
-		<link>https://34.46.250.79/?attachment_id=20</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=20</link>
 		<pubDate>Fri, 19 Jul 2024 05:48:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/07/i4J-Logo.png</guid>
@@ -142,7 +142,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/07/i4J-Logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/07/i4J-Logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/i4J-Logo.png]]></wp:meta_value>
@@ -158,7 +158,7 @@
 							</item>
 					<item>
 		<title><![CDATA[COLAW_RGB_Primary]]></title>
-		<link>https://34.46.250.79/?attachment_id=21</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=21</link>
 		<pubDate>Fri, 19 Jul 2024 05:57:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/07/COLAW_RGB_Primary.png</guid>
@@ -179,7 +179,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/07/COLAW_RGB_Primary.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/07/COLAW_RGB_Primary.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/COLAW_RGB_Primary.png]]></wp:meta_value>
@@ -195,7 +195,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Eccles_Horz_Transparent]]></title>
-		<link>https://34.46.250.79/?attachment_id=22</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=22</link>
 		<pubDate>Fri, 19 Jul 2024 05:59:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/07/Eccles_Horz_Transparent.png</guid>
@@ -216,7 +216,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/07/Eccles_Horz_Transparent.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/07/Eccles_Horz_Transparent.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/Eccles_Horz_Transparent.png]]></wp:meta_value>
@@ -232,7 +232,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Landscape of DV Services]]></title>
-		<link>https://34.46.250.79/?attachment_id=67</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=67</link>
 		<pubDate>Fri, 30 Aug 2024 08:41:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/08/Landscape-of-DV-Services.png</guid>
@@ -253,7 +253,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/08/Landscape-of-DV-Services.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/08/Landscape-of-DV-Services.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Landscape-of-DV-Services.png]]></wp:meta_value>
@@ -265,7 +265,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Research Methodology]]></title>
-		<link>https://34.46.250.79/?attachment_id=68</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=68</link>
 		<pubDate>Fri, 30 Aug 2024 08:47:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/08/Research-Methodology.png</guid>
@@ -286,7 +286,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/08/Research-Methodology.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/08/Research-Methodology.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Research-Methodology.png]]></wp:meta_value>
@@ -298,7 +298,7 @@
 							</item>
 					<item>
 		<title><![CDATA[DV Advocate Interest Pie Chart]]></title>
-		<link>https://34.46.250.79/?attachment_id=176</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=176</link>
 		<pubDate>Thu, 05 Sep 2024 22:47:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/DV-Advocate-Interest-Pie-Chart.png</guid>
@@ -319,7 +319,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/DV-Advocate-Interest-Pie-Chart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/DV-Advocate-Interest-Pie-Chart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/DV-Advocate-Interest-Pie-Chart.png]]></wp:meta_value>
@@ -331,7 +331,7 @@
 							</item>
 					<item>
 		<title><![CDATA[DV Advocate Advice Helpful Pie Chart]]></title>
-		<link>https://34.46.250.79/?attachment_id=179</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=179</link>
 		<pubDate>Thu, 05 Sep 2024 23:03:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/DV-Advocate-Advice-Helpful-Pie-Chart.png</guid>
@@ -352,7 +352,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/DV-Advocate-Advice-Helpful-Pie-Chart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/DV-Advocate-Advice-Helpful-Pie-Chart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/DV-Advocate-Advice-Helpful-Pie-Chart.png]]></wp:meta_value>
@@ -364,7 +364,7 @@
 							</item>
 					<item>
 		<title><![CDATA[White Paper_ Building the Toolkit]]></title>
-		<link>https://34.46.250.79/?attachment_id=200</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=200</link>
 		<pubDate>Thu, 12 Sep 2024 01:16:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf</guid>
@@ -385,7 +385,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/White-Paper_-Building-the-Toolkit.pdf]]></wp:meta_value>
@@ -397,7 +397,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Project Brief]]></title>
-		<link>https://34.46.250.79/?attachment_id=201</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=201</link>
 		<pubDate>Thu, 12 Sep 2024 01:16:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/Project-Brief.pdf</guid>
@@ -418,7 +418,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/Project-Brief.pdf]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/Project-Brief.pdf]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Project-Brief.pdf]]></wp:meta_value>
@@ -430,7 +430,7 @@
 							</item>
 					<item>
 		<title><![CDATA[White Paper_ Results and Methodology]]></title>
-		<link>https://34.46.250.79/?attachment_id=202</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=202</link>
 		<pubDate>Thu, 12 Sep 2024 01:16:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf</guid>
@@ -451,7 +451,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/White-Paper_-Results-and-Methodology.pdf]]></wp:meta_value>
@@ -463,7 +463,7 @@
 							</item>
 					<item>
 		<title><![CDATA[CivilLegalNeedsOfSurvivors]]></title>
-		<link>https://34.46.250.79/?attachment_id=206</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=206</link>
 		<pubDate>Fri, 13 Sep 2024 00:55:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/CivilLegalNeedsOfSurvivors.png</guid>
@@ -484,7 +484,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/CivilLegalNeedsOfSurvivors.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CivilLegalNeedsOfSurvivors.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/CivilLegalNeedsOfSurvivors.png]]></wp:meta_value>
@@ -496,7 +496,7 @@
 							</item>
 					<item>
 		<title><![CDATA[CivilLegalNeedsTable]]></title>
-		<link>https://34.46.250.79/?attachment_id=207</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=207</link>
 		<pubDate>Fri, 13 Sep 2024 00:58:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/CivilLegalNeedsTable.png</guid>
@@ -517,7 +517,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/CivilLegalNeedsTable.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CivilLegalNeedsTable.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/CivilLegalNeedsTable.png]]></wp:meta_value>
@@ -529,7 +529,7 @@
 							</item>
 					<item>
 		<title><![CDATA[AdvocateInterestInLegalTrainingChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=208</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=208</link>
 		<pubDate>Fri, 13 Sep 2024 01:03:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/AdvocateInterestInLegalTrainingChart.png</guid>
@@ -550,7 +550,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/AdvocateInterestInLegalTrainingChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/AdvocateInterestInLegalTrainingChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/AdvocateInterestInLegalTrainingChart.png]]></wp:meta_value>
@@ -562,7 +562,7 @@
 							</item>
 					<item>
 		<title><![CDATA[ChartOfAdvocateTrainingInterestVSSurvivorNeeds]]></title>
-		<link>https://34.46.250.79/?attachment_id=209</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=209</link>
 		<pubDate>Fri, 13 Sep 2024 01:04:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/ChartOfAdvocateTrainingInterestVSSurvivorNeeds.png</guid>
@@ -583,7 +583,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/ChartOfAdvocateTrainingInterestVSSurvivorNeeds.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/ChartOfAdvocateTrainingInterestVSSurvivorNeeds.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/ChartOfAdvocateTrainingInterestVSSurvivorNeeds.png]]></wp:meta_value>
@@ -595,7 +595,7 @@
 							</item>
 					<item>
 		<title><![CDATA[AdvocateInterestInTrainingOnProtectiveOrdersChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=212</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=212</link>
 		<pubDate>Fri, 13 Sep 2024 03:07:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/AdvocateInterestInTrainingOnProtectiveOrdersChart.png</guid>
@@ -616,7 +616,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/AdvocateInterestInTrainingOnProtectiveOrdersChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/AdvocateInterestInTrainingOnProtectiveOrdersChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/AdvocateInterestInTrainingOnProtectiveOrdersChart.png]]></wp:meta_value>
@@ -628,7 +628,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnCustodyChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=214</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=214</link>
 		<pubDate>Fri, 13 Sep 2024 03:25:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnCustodyChart.png</guid>
@@ -649,7 +649,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnCustodyChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnCustodyChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnCustodyChart.png]]></wp:meta_value>
@@ -661,7 +661,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnDivorceChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=215</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=215</link>
 		<pubDate>Fri, 13 Sep 2024 03:29:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnDivorceChart.png</guid>
@@ -682,7 +682,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnDivorceChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnDivorceChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnDivorceChart.png]]></wp:meta_value>
@@ -694,7 +694,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnEvictionChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=216</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=216</link>
 		<pubDate>Fri, 13 Sep 2024 03:35:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnEvictionChart.png</guid>
@@ -715,7 +715,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnEvictionChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnEvictionChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnEvictionChart.png]]></wp:meta_value>
@@ -727,7 +727,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnPropertyProtection]]></title>
-		<link>https://34.46.250.79/?attachment_id=217</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=217</link>
 		<pubDate>Fri, 13 Sep 2024 03:38:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnPropertyProtection.png</guid>
@@ -748,7 +748,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnPropertyProtection.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnPropertyProtection.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnPropertyProtection.png]]></wp:meta_value>
@@ -760,7 +760,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnHousingDebt]]></title>
-		<link>https://34.46.250.79/?attachment_id=218</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=218</link>
 		<pubDate>Fri, 13 Sep 2024 03:41:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnHousingDebt.png</guid>
@@ -781,7 +781,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnHousingDebt.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnHousingDebt.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnHousingDebt.png]]></wp:meta_value>
@@ -793,7 +793,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnForeclosure]]></title>
-		<link>https://34.46.250.79/?attachment_id=219</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=219</link>
 		<pubDate>Fri, 13 Sep 2024 03:45:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnForeclosure.png</guid>
@@ -814,7 +814,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnForeclosure.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnForeclosure.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnForeclosure.png]]></wp:meta_value>
@@ -826,7 +826,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnImmigration]]></title>
-		<link>https://34.46.250.79/?attachment_id=220</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=220</link>
 		<pubDate>Fri, 13 Sep 2024 03:57:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnImmigration.png</guid>
@@ -847,7 +847,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnImmigration.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnImmigration.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnImmigration.png]]></wp:meta_value>
@@ -859,7 +859,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnCreditCardDebt]]></title>
-		<link>https://34.46.250.79/?attachment_id=221</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=221</link>
 		<pubDate>Fri, 13 Sep 2024 04:10:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnCreditCardDebt.png</guid>
@@ -880,7 +880,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnCreditCardDebt.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnCreditCardDebt.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnCreditCardDebt.png]]></wp:meta_value>
@@ -892,7 +892,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnMedicalDebt]]></title>
-		<link>https://34.46.250.79/?attachment_id=222</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=222</link>
 		<pubDate>Fri, 13 Sep 2024 04:14:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnMedicalDebt.png</guid>
@@ -913,7 +913,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnMedicalDebt.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnMedicalDebt.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnMedicalDebt.png]]></wp:meta_value>
@@ -925,7 +925,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnEmployment]]></title>
-		<link>https://34.46.250.79/?attachment_id=223</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=223</link>
 		<pubDate>Fri, 13 Sep 2024 04:24:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnEmployment.png</guid>
@@ -946,7 +946,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnEmployment.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnEmployment.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnEmployment.png]]></wp:meta_value>
@@ -958,7 +958,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnBenefits]]></title>
-		<link>https://34.46.250.79/?attachment_id=224</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=224</link>
 		<pubDate>Fri, 13 Sep 2024 04:27:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnBenefits.png</guid>
@@ -979,7 +979,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnBenefits.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnBenefits.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnBenefits.png]]></wp:meta_value>
@@ -991,7 +991,7 @@
 							</item>
 					<item>
 		<title><![CDATA[InterestInTrainingOnOtherCivilNeeds]]></title>
-		<link>https://34.46.250.79/?attachment_id=225</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=225</link>
 		<pubDate>Fri, 13 Sep 2024 04:31:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnOtherCivilNeeds.png</guid>
@@ -1012,7 +1012,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnOtherCivilNeeds.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnOtherCivilNeeds.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/InterestInTrainingOnOtherCivilNeeds.png]]></wp:meta_value>
@@ -1024,7 +1024,7 @@
 							</item>
 					<item>
 		<title><![CDATA[TrainingTopicsTable]]></title>
-		<link>https://34.46.250.79/?attachment_id=227</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=227</link>
 		<pubDate>Fri, 13 Sep 2024 05:43:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/TrainingTopicsTable.png</guid>
@@ -1045,7 +1045,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/TrainingTopicsTable.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/TrainingTopicsTable.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/TrainingTopicsTable.png]]></wp:meta_value>
@@ -1057,7 +1057,7 @@
 							</item>
 					<item>
 		<title><![CDATA[SpecializedLegalTrainingTable]]></title>
-		<link>https://34.46.250.79/?attachment_id=228</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=228</link>
 		<pubDate>Fri, 13 Sep 2024 05:55:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/SpecializedLegalTrainingTable.png</guid>
@@ -1078,7 +1078,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/SpecializedLegalTrainingTable.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/SpecializedLegalTrainingTable.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/SpecializedLegalTrainingTable.png]]></wp:meta_value>
@@ -1090,7 +1090,7 @@
 							</item>
 					<item>
 		<title><![CDATA[TrainingTopicsToIncreaseConfidenceCharts]]></title>
-		<link>https://34.46.250.79/?attachment_id=229</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=229</link>
 		<pubDate>Fri, 13 Sep 2024 06:09:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/TrainingTopicsToIncreaseConfidenceCharts.png</guid>
@@ -1111,7 +1111,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/TrainingTopicsToIncreaseConfidenceCharts.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/TrainingTopicsToIncreaseConfidenceCharts.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/TrainingTopicsToIncreaseConfidenceCharts.png]]></wp:meta_value>
@@ -1123,7 +1123,7 @@
 							</item>
 					<item>
 		<title><![CDATA[TimeForTrainingChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=230</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=230</link>
 		<pubDate>Fri, 13 Sep 2024 06:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/TimeForTrainingChart.png</guid>
@@ -1144,7 +1144,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/TimeForTrainingChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/TimeForTrainingChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/TimeForTrainingChart.png]]></wp:meta_value>
@@ -1156,7 +1156,7 @@
 							</item>
 					<item>
 		<title><![CDATA[MotivationForTrainingCharts]]></title>
-		<link>https://34.46.250.79/?attachment_id=231</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=231</link>
 		<pubDate>Fri, 13 Sep 2024 06:17:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/MotivationForTrainingCharts.png</guid>
@@ -1177,7 +1177,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/MotivationForTrainingCharts.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/MotivationForTrainingCharts.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/MotivationForTrainingCharts.png]]></wp:meta_value>
@@ -1189,7 +1189,7 @@
 							</item>
 					<item>
 		<title><![CDATA[SkillbuildingMotivationsChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=232</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=232</link>
 		<pubDate>Fri, 13 Sep 2024 06:21:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/SkillbuildingMotivationsChart.png</guid>
@@ -1210,7 +1210,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/SkillbuildingMotivationsChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/SkillbuildingMotivationsChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/SkillbuildingMotivationsChart.png]]></wp:meta_value>
@@ -1222,7 +1222,7 @@
 							</item>
 					<item>
 		<title><![CDATA[ServicesProvidedToSurvivorsChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=238</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=238</link>
 		<pubDate>Sat, 14 Sep 2024 02:26:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/ServicesProvidedToSurvivorsChart.png</guid>
@@ -1243,7 +1243,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/ServicesProvidedToSurvivorsChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/ServicesProvidedToSurvivorsChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/ServicesProvidedToSurvivorsChart.png]]></wp:meta_value>
@@ -1255,7 +1255,7 @@
 							</item>
 					<item>
 		<title><![CDATA[OrganizationsProvidingDVServicesChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=239</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=239</link>
 		<pubDate>Sat, 14 Sep 2024 02:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/OrganizationsProvidingDVServicesChart.png</guid>
@@ -1276,7 +1276,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/OrganizationsProvidingDVServicesChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/OrganizationsProvidingDVServicesChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/OrganizationsProvidingDVServicesChart.png]]></wp:meta_value>
@@ -1288,7 +1288,7 @@
 							</item>
 					<item>
 		<title><![CDATA[DVLAInAZ]]></title>
-		<link>https://34.46.250.79/?attachment_id=240</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=240</link>
 		<pubDate>Sat, 14 Sep 2024 03:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/DVLAInAZ.png</guid>
@@ -1309,7 +1309,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/DVLAInAZ.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/DVLAInAZ.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/DVLAInAZ.png]]></wp:meta_value>
@@ -1321,7 +1321,7 @@
 							</item>
 					<item>
 		<title><![CDATA[CAPPInUT]]></title>
-		<link>https://34.46.250.79/?attachment_id=241</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=241</link>
 		<pubDate>Sat, 14 Sep 2024 03:52:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/CAPPInUT.png</guid>
@@ -1342,7 +1342,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/CAPPInUT.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CAPPInUT.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/CAPPInUT.png]]></wp:meta_value>
@@ -1354,7 +1354,7 @@
 							</item>
 					<item>
 		<title><![CDATA[CJWsInAK]]></title>
-		<link>https://34.46.250.79/?attachment_id=242</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=242</link>
 		<pubDate>Sat, 14 Sep 2024 03:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/CJWsInAK.png</guid>
@@ -1375,7 +1375,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/CJWsInAK.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CJWsInAK.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/CJWsInAK.png]]></wp:meta_value>
@@ -1387,7 +1387,7 @@
 							</item>
 					<item>
 		<title><![CDATA[AdvocateAssistanceWithProtectionOrders]]></title>
-		<link>https://34.46.250.79/?attachment_id=244</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=244</link>
 		<pubDate>Sat, 14 Sep 2024 04:56:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/AdvocateAssistanceWithProtectionOrders.png</guid>
@@ -1408,7 +1408,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/AdvocateAssistanceWithProtectionOrders.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/AdvocateAssistanceWithProtectionOrders.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/AdvocateAssistanceWithProtectionOrders.png]]></wp:meta_value>
@@ -1420,7 +1420,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Hello world!]]></title>
-		<link>https://34.46.250.79/?p=1</link>
+		<link>https://uplpolicytoolkit.org/?p=1</link>
 		<pubDate>Thu, 20 Jun 2024 21:57:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://34.46.250.79/?p=1</guid>
@@ -1432,19 +1432,35 @@
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-20 21:57:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-20 21:57:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-20 21:57:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-20 21:57:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-17 23:25:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-17 23:25:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726615510]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
@@ -1455,7 +1471,7 @@
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
 Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
@@ -1463,7 +1479,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 					</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://34.46.250.79/?page_id=26</link>
+		<link>https://uplpolicytoolkit.org/?page_id=26</link>
 		<pubDate>Fri, 30 Aug 2024 03:46:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=26</guid>
@@ -1492,7 +1508,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="https://34.46.250.79/wp-content/themes/twentytwentyfour/assets/images/museum.webp" alt="A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://uplpolicytoolkit.org/wp-content/themes/twentytwentyfour/assets/images/museum.webp" alt="A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -1532,7 +1548,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-group alignfull has-accent-5-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":"var:preset|duotone|duotone-1"}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="https://34.46.250.79/wp-content/themes/twentytwentyfour/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://uplpolicytoolkit.org/wp-content/themes/twentytwentyfour/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -1772,7 +1788,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="https://34.46.250.79/wp-content/themes/twentytwentyfour/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://uplpolicytoolkit.org/wp-content/themes/twentytwentyfour/assets/images/abstract-geometric-art.webp" alt="White abstract geometric artwork from Dresden, Germany" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -1807,14 +1823,14 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://34.46.250.79/</link>
+		<link>https://uplpolicytoolkit.org/</link>
 		<pubDate>Fri, 30 Aug 2024 03:52:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=38</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"66.66%","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
-<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);flex-basis:66.66%"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}}},"fontFamily":"system-sans-serif"} -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}}},"fontFamily":"system-sans-serif"} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#087e8b;font-size:1.5em"><strong>What is Unauthorized Practice of Law (UPL) Reform?</strong></h2>
 <!-- /wp:heading -->
 
@@ -1824,75 +1840,107 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}},"spacing":{"padding":{"left":"var:preset|spacing|20","right":"var:preset|spacing|20","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}}} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=57" style="color:#087e8b;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)">Learn More!</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=57" style="color:#087e8b;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--20)">Learn More!</a></div>
 <!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:column -->
+<!-- /wp:buttons -->
 
-<!-- wp:column {"width":"33.33%","style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
-<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);flex-basis:33.33%"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"text":"#e77823"},"elements":{"link":{"color":{"text":"#e77823"}}}},"fontFamily":"system-sans-serif"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#e77823;font-size:1.5em"><strong>Who is this toolkit for?</strong></h2>
-<!-- /wp:heading -->
+<!-- wp:spacer {"height":"5vh"} -->
+<div style="height:5vh" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">This toolkit is designed for anyone who wants to build the bench of community members who can know and use the law to advance equal justice. Grounded in the issue of domestic violence as a case study, this toolkit is particularly a resource for advocates, organization leaders, lawyers, and survivors interested in advancing UPL reform in their state.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}}} -->
-<div class="wp-block-columns" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"background":"#84bfc5"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"},"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontFamily":"system-sans-serif"} -->
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"background":"#84bfc5"},"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"},"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontFamily":"system-sans-serif"} -->
 <h2 class="wp-block-heading has-text-align-center has-background has-system-sans-serif-font-family" style="background-color:#84bfc5;margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.5em"><strong>The Justice Crisis for DV Survivors</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":67,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/08/Landscape-of-DV-Services.png" alt="" class="wp-image-67"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/08/Landscape-of-DV-Services.png" alt="" class="wp-image-67"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}},"typography":{"fontSize":"0.75em"}}} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=40" style="color:#087e8b">Learn More about the Current Landscape of DV Services</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=40" style="color:#087e8b">Learn More about the Current Landscape of DV Services</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"background":"#f3bc91"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontFamily":"system-sans-serif"} -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"text":"#e77823"},"elements":{"link":{"color":{"text":"#e77823"}}}},"fontFamily":"system-sans-serif"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#e77823;font-size:1.5em"><strong>Who is this toolkit for?</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">This toolkit is designed for anyone who wants to build the bench of community members who can know and use the law to advance equal justice. Grounded in the issue of domestic violence as a case study, this toolkit is particularly a resource for advocates, organization leaders, lawyers, and survivors interested in advancing UPL reform in their state.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"13.5vh"} -->
+<div style="height:13.5vh" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"background":"#f3bc91"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontFamily":"system-sans-serif"} -->
 <h2 class="wp-block-heading has-text-align-center has-background has-system-sans-serif-font-family" style="background-color:#f3bc91;margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.5em"><strong>Our Research Methodology</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":68,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/08/Research-Methodology.png" alt="" class="wp-image-68"/></figure>
+<figure class="wp-block-image size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/08/Research-Methodology.png" alt="" class="wp-image-68"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"accent-3","className":"is-style-outline","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-3"}}}}} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-accent-3-color has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=55">Learn More about Our Research Methodology</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-accent-3-color has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=55">Learn More about Our Research Methodology</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"background":"#d9f9fd"},"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontFamily":"system-sans-serif"} -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}}},"fontFamily":"system-sans-serif"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#087e8b;font-size:1.5em"><strong>How to use this toolkit</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">This Toolkit was designed for anyone who wants to build the bench of community members who can know and use the law to advance equal justice. Grounded in the issue of domestic violence as a case study, the Toolkit is particularly a resource for advocates, organization leaders, lawyers, and survivors interested in advancing UPL reform in their state. This Toolkit can be used to encourage UPL reform in any jurisdiction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"style":{"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
+<ol style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)" class="wp-block-list"><!-- wp:list-item -->
+<li>First, the UPL database can be used to identify the UPL restriction in a specific jurisdiction that would need to be amended in order to encourage reform.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Second, the Toolkit can be used to understand who the decision-makers are with the power to further UPL reform in a jurisdiction.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Third, data from Research Question 1, Research Question 2, and Research Question 3 can be used to tell the story about why a specific community would benefit from implementing UPL reform.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Finally, data from Research Question 4 and Research Question 5 can be used to illustrate how a specific organization’s existing training compares to training at other organizations, what training for upskilling advocates might include, and what best practices might guide new training.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"3.5vh"} -->
+<div style="height:3.5vh" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"1.5em"},"color":{"background":"#d9f9fd"},"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontFamily":"system-sans-serif"} -->
 <h2 class="wp-block-heading has-text-align-center has-background has-system-sans-serif-font-family" style="background-color:#d9f9fd;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-size:1.5em"><strong>Learn More About This Toolkit</strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"elements":{"link":{"color":{"text":"#087e8b"}}},"color":{"text":"#087e8b"}}} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=57" style="color:#087e8b">Learn More about This Toolkit</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=57" style="color:#087e8b">Learn More about This Toolkit</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}},"spacing":{"padding":{"top":"0","bottom":"0"}},"typography":{"fontSize":"1.5rem"}},"fontFamily":"system-sans-serif"} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#087e8b;padding-top:0;padding-bottom:0;font-size:1.5rem"><strong>Data-Driven Decision-Making in UPL Reform: Explore our Five Research Questions</strong></h2>
-<!-- /wp:heading -->
-
 <!-- wp:spacer {"height":"25px"} -->
 <div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}},"spacing":{"padding":{"top":"0","bottom":"0"}},"typography":{"fontSize":"1.5rem"}},"fontFamily":"system-sans-serif"} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#087e8b;padding-top:0;padding-bottom:0;font-size:1.5rem"><strong>Data-Driven Decision-Making in UPL Reform: Explore our Five Research Questions</strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -1902,7 +1950,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"color":{"text":"#087e8b"},"elements":{"link":{"color":{"text":"#087e8b"}}},"typography":{"fontSize":"0.75em"}}} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=42" style="color:#087e8b">Learn More about UPL Challenges</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=42" style="color:#087e8b">Learn More about UPL Challenges</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -1914,7 +1962,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"color":{"text":"#d97e3a"},"elements":{"link":{"color":{"text":"#d97e3a"}}},"typography":{"fontSize":"0.75em"}}} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=44" style="color:#d97e3a">Learn More about Interest in Reform</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=44" style="color:#d97e3a">Learn More about Interest in Reform</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -1926,7 +1974,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"color":{"text":"#bc844a"},"elements":{"link":{"color":{"text":"#bc844a"}}},"typography":{"fontSize":"0.75em"}}} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=47" style="color:#bc844a">Learn More about Legal Needs of Survivors</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=47" style="color:#bc844a">Learn More about Legal Needs of Survivors</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -1938,7 +1986,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"textColor":"accent-3","className":"is-style-outline","style":{"typography":{"fontSize":"0.75em"},"elements":{"link":{"color":{"text":"var:preset|color|accent-3"}}}}} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-accent-3-color has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=49">Learn More about Training Recommendations</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-accent-3-color has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=49">Learn More about Training Recommendations</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->
@@ -1950,7 +1998,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"typography":{"fontSize":"0.75em"},"elements":{"link":{"color":{"text":"#b28c01"}}},"color":{"text":"#b28c01"}}} -->
-<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://34.46.250.79/?page_id=51" style="color:#b28c01">Learn More about Best Practices for DV Advocacy</a></div>
+<div class="wp-block-button has-custom-font-size is-style-outline" style="font-size:0.75em"><a class="wp-block-button__link has-text-color has-link-color wp-element-button" href="https://uplpolicytoolkit.org/?page_id=51" style="color:#b28c01">Learn More about Best Practices for DV Advocacy</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
@@ -1967,7 +2015,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<iframe height="620" width="1220" frameborder="0" scrolling="no" padding="0" marginheight="0" marginwidth="0" loading="lazy" src="https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=0d6b1b6ae4224c699669d49d823eeeb0&disableSplashFocus=true"></iframe>
+<iframe height="620" width="1180" frameborder="0" scrolling="no" padding="0" marginheight="0" marginwidth="0" loading="lazy" src="https://uagis.maps.arcgis.com/apps/webappviewer/index.html?id=0d6b1b6ae4224c699669d49d823eeeb0&disableSplashFocus=true"></iframe>
 <!-- /wp:html --></div>
 <!-- /wp:column -->
 
@@ -1977,19 +2025,19 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:heading -->
 
 <!-- wp:pullquote {"style":{"border":{"width":"4px"},"spacing":{"padding":{"right":"var:preset|spacing|10","left":"var:preset|spacing|10","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"color":{"background":"#b2f3fb"},"typography":{"fontSize":"1.25rem"}}} -->
-<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#b2f3fb;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p>"<strong>It would be so great if we could get more individualized training and...be competent in the legal assistance that we're providing</strong>."</p><cite>- DV Advocate</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#b2f3fb;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p>"<strong>It would be so great if we could get more individualized training and...be competent in the legal assistance that we're providing</strong>."</p><cite><strong>- DV Advocate</strong></cite></blockquote></figure>
 <!-- /wp:pullquote -->
 
 <!-- wp:pullquote {"style":{"border":{"width":"4px"},"spacing":{"padding":{"right":"var:preset|spacing|10","left":"var:preset|spacing|10","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"color":{"background":"#e77823"},"typography":{"fontSize":"1.25rem"}}} -->
-<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#e77823;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p><strong>“I think because the resources are so limited, it [advocates providing limited-scope legal advice] would obviously...expand access for people.”</strong></p><cite>- Organization Leadership</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#e77823;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p><strong>“I think because the resources are so limited, it [advocates providing limited-scope legal advice] would obviously...expand access for people.”</strong></p><cite><strong>- Organization Leadership</strong></cite></blockquote></figure>
 <!-- /wp:pullquote -->
 
 <!-- wp:pullquote {"style":{"border":{"width":"4px"},"spacing":{"padding":{"right":"var:preset|spacing|10","left":"var:preset|spacing|10","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"color":{"background":"#f4c03e"},"typography":{"fontSize":"1.25rem"}}} -->
-<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#f4c03e;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p><strong>"The lack of access to justice is harming more people than any bad scenario that I can imagine if advocates were given, carefully tailored, regulated access to and ability to provide advice."</strong></p><cite>- DV Attorney</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#f4c03e;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p><strong>"The lack of access to justice is harming more people than any bad scenario that I can imagine if advocates were given, carefully tailored, regulated access to and ability to provide advice."</strong></p><cite><strong>- DV Attorney</strong></cite></blockquote></figure>
 <!-- /wp:pullquote -->
 
 <!-- wp:pullquote {"style":{"border":{"width":"4px"},"spacing":{"padding":{"right":"var:preset|spacing|10","left":"var:preset|spacing|10","top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}},"color":{"background":"#b2f3fb"},"typography":{"fontSize":"1.25rem"}}} -->
-<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#b2f3fb;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p><strong>"[Being able to give legal advice] would be very beneficial because I'm in court every day, and every day something arises."</strong></p><cite>- DV Advocate</cite></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#b2f3fb;padding-top:var(--wp--preset--spacing--10);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10);padding-left:var(--wp--preset--spacing--10);font-size:1.25rem"><blockquote><p><strong>"[Being able to give legal advice] would be very beneficial because I'm in court every day, and every day something arises."</strong></p><cite><strong>- DV Advocate</strong></cite></blockquote></figure>
 <!-- /wp:pullquote --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
@@ -1997,8 +2045,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-30 03:52:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-30 03:52:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-04 04:44:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-04 04:44:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-17 02:11:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-17 02:11:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2015,12 +2063,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Landscape of Domestic Violence Services]]></title>
-		<link>https://34.46.250.79/?page_id=40</link>
+		<link>https://uplpolicytoolkit.org/?page_id=40</link>
 		<pubDate>Fri, 30 Aug 2024 03:48:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=40</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:ub/content-toggle-block {"blockID":"0a430dc3-6d05-41a1-b1ea-e28e0287a4ee","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+		<content:encoded><![CDATA[<!-- wp:ub/content-toggle-block {"blockID":"10e773b9-e251-4c25-8632-79e641411362","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eDV organizations provide a wide range of services to survivors. DV organizations vary in the services they provide to survivors.\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2129,7 +2177,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":238,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/ServicesProvidedToSurvivorsChart.png" alt="Chart of services provided to DV survivors." class="wp-image-238"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/ServicesProvidedToSurvivorsChart.png" alt="Chart of services provided to DV survivors." class="wp-image-238"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -2141,17 +2189,17 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":239,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/OrganizationsProvidingDVServicesChart.png" alt="Chart of organizations providing services to survivors." class="wp-image-239"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/OrganizationsProvidingDVServicesChart.png" alt="Chart of organizations providing services to survivors." class="wp-image-239"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"c703d496-7ee8-4012-8c14-49de8a536ab1","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"9797acc9-73c3-4bf5-a15a-bdebf0da7277","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eIn 34 states, DV advocates must refer survivors to other service providers because they cannot provide legal advice to survivors, which creates a service gap for survivors with legal needs. 16 states have begun to address this service barrier with UPL exceptions that permit DV advocates to offer some legal help to survivors.\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:paragraph {"placeholder":"Panel content"} -->
-<p>A thorough search of exceptions to UPL restrictions revealed 10 states that allow DV advocates to provide legal assistance to survivors (Alaska, Arizona, Illinois, Iowa, Michigan, Nebraska, Nevada, North Dakota, Utah, and Washington) and 6 states that allow Allied Legal Professionals (ALPs) (professionals who are not licensed attorneys who serve clients and complement and enhance legal services provided by attorneys) to assist survivors with legal issues (Arizona, Colorado, New Hampshire, Oregon, Utah, and Washington). The contours of UPL exceptions differ from state to state; visit the <strong><a href="https://34.46.250.79/?page_id=53" data-type="page" data-id="53">UPL Database</a></strong> for more details about these different exceptions. Surveyed advocates were asked whether they were authorized to provide legal advice to survivors; 93.7% of advocates indicated they are not authorized to provide legal advice to survivors. Only one advocate that indicated they were authorized to provide legal advice to survivors practices in one of these identified states. This may indicate confusion by the question or lack of clarity of what advocates may assist survivors with when presented with a civil legal issue.</p>
+<p>A thorough search of exceptions to UPL restrictions revealed 10 states that allow DV advocates to provide legal assistance to survivors (Alaska, Arizona, Illinois, Iowa, Michigan, Nebraska, Nevada, North Dakota, Utah, and Washington) and 6 states that allow Allied Legal Professionals (ALPs) (professionals who are not licensed attorneys who serve clients and complement and enhance legal services provided by attorneys) to assist survivors with legal issues (Arizona, Colorado, New Hampshire, Oregon, Utah, and Washington). The contours of UPL exceptions differ from state to state; visit the <strong><a href="https://uplpolicytoolkit.org/?page_id=53" data-type="page" data-id="53">UPL Database</a></strong> for more details about these different exceptions. Surveyed advocates were asked whether they were authorized to provide legal advice to survivors; 93.7% of advocates indicated they are not authorized to provide legal advice to survivors. Only one advocate that indicated they were authorized to provide legal advice to survivors practices in one of these identified states. This may indicate confusion by the question or lack of clarity of what advocates may assist survivors with when presented with a civil legal issue.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"fontFamily":"system-sans-serif"} -->
@@ -2163,7 +2211,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:table -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1rem"}}} -->
-<p class="has-text-align-center" style="font-size:1rem"><em>For more details about these exceptions to UPL restrictions across the country, see the <strong><a href="https://34.46.250.79/?page_id=53" data-type="page" data-id="53">UPL Database</a></strong></em>.</p>
+<p class="has-text-align-center" style="font-size:1rem"><em>For more details about these exceptions to UPL restrictions across the country, see the <strong><a href="https://uplpolicytoolkit.org/?page_id=53" data-type="page" data-id="53">UPL Database</a></strong></em>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"1rem"}}} -->
@@ -2183,19 +2231,19 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":240,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/DVLAInAZ.png" alt="" class="wp-image-240"/></figure>
+<figure class="wp-block-image size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/DVLAInAZ.png" alt="" class="wp-image-240"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":241,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/CAPPInUT.png" alt="Table about Certified Advocate Partners Program in Utah." class="wp-image-241"/></figure>
+<figure class="wp-block-image size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CAPPInUT.png" alt="Table about Certified Advocate Partners Program in Utah." class="wp-image-241"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":242,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/CJWsInAK.png" alt="Table about Community Justice Workers in Alaska." class="wp-image-242"/></figure>
+<figure class="wp-block-image size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CJWsInAK.png" alt="Table about Community Justice Workers in Alaska." class="wp-image-242"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -2242,13 +2290,13 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"a93c45c2-6a5f-4788-a6aa-3074d87cccb9","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"943bd653-3a49-4a07-a6af-c7806e513354","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eDV Organizations face many challenges when they try to help survivors experiencing legal problems.\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:paragraph {"placeholder":"Panel content"} -->
 <p>Click the drop-downs on each challenge to see what organization leaders had to say about these challenges.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"7acb51e7-d8bd-4974-a09c-ecfa09c41735","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"3b1eb0ef-d908-4218-b39c-1e07fd0217f2","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eLack of Funding/Resources\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2282,7 +2330,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"311fc21e-fa7c-49d0-ae1a-18fc8fe627a5","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"38c506ee-e492-4c82-abfd-0795162dddcd","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eLitigation Violence\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2314,7 +2362,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"c2ae26e5-2e14-402a-8815-1ff7f9c88898","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"84449ffa-98e3-4eab-ba60-8a3d694f2862","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eFinding Lawyers/Representation\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2346,7 +2394,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"4a36041d-36f2-4770-ac41-674d94f9b8aa","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"0d98c422-23f2-4824-8ede-147ffb232d41","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eCapacity\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2378,7 +2426,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"dff15a29-aa76-4ea6-a186-78e85d0f728e","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"6b732ecb-57f0-44fc-9ac5-7c6e1b421684","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eLogistical Issues\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2410,7 +2458,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"439055f9-6dd0-49de-82f0-20f2dbe94174","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"c20668d8-93a5-4295-ac26-920ab1e89c4e","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eThe Court System\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2421,7 +2469,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:pullquote {"style":{"typography":{"fontSize":"1.5rem"},"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"width":"4px"},"color":{"background":"#e77823"}}} -->
-<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#e77823;padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:1.5rem"><blockquote><p><strong>"I don't hear about it as much as I used to. But judges who are not aware or savvy up to the dynamics of domestic violence are an issue."</strong></p></blockquote></figure>
+<figure class="wp-block-pullquote has-background" style="border-width:4px;background-color:#e77823;padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20);font-size:1.5rem"><blockquote><p><strong>"I don't hear about it as much as I used to. But judges who are not aware or savvy up to the dynamics of domestic violence are an issue."</strong></p><cite><strong>- Organization Leader from the Midwest</strong></cite></blockquote></figure>
 <!-- /wp:pullquote --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -2442,7 +2490,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"ee48169f-1869-4b15-b098-61be55c2f09e","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"162c9a45-e303-4a86-97ff-3ed0f9a37e9a","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eLack of Training/Understanding\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2474,7 +2522,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"f22fee42-2a54-4d3b-a8e7-00760a5c4bca","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"a4b048ad-d645-4726-b8a0-163938edd37c","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eService Provider Limitations\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -2508,11 +2556,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"8fdc9041-45b2-4110-a0b7-9e4e3ab2b7d6","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"e3cb70a3-2fcd-443d-be92-d4ff0f9bb96a","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eIn the current landscape, 92% of low-income survivors do not get legal help from lawyers. However, when a lawyer is available, advocates perceive their role as adjacent to and supportive of the attorney role.\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:ub/content-toggle-block {"blockID":"3512d62d-817a-4a1a-b489-bf6440527698","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<div class="wp-block-column"><!-- wp:ub/content-toggle-block {"blockID":"51eb70e5-e3cd-4718-b0bc-2f38e531ce82","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eWhat is the advocate's role?\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">Advocates use a survivor-led model, in which they explore options with the survivor so the survivor can make informed decisions.</p>
@@ -2614,7 +2662,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:ub/content-toggle-block {"blockID":"43f0b45e-f4cb-4fe1-9de0-4475a8b5467f","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<div class="wp-block-column"><!-- wp:ub/content-toggle-block {"blockID":"d0e3f16d-8583-46b8-a15f-9cfeba3fa272","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eWhat is the attorney's role?\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">Attorneys provide possible outcomes to survivors.</p>
@@ -2678,7 +2726,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
 
-<!-- wp:ub/content-toggle-block {"blockID":"8cfdb828-e6d5-4d08-b43d-ff83325857a0","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
+<!-- wp:ub/content-toggle-block {"blockID":"722fc766-486d-4194-8627-f4e39253469f","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","hasFAQSchema":true,"toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"hasFAQSchema":true,"titleColor":"#000000","panelTitle":"\u003cstrong\u003eWhile DV advocacy organizations are sometimes able to help with common things such as protective orders, they cannot go beyond and help in more complex cases without violating UPL restrictions.\u003c/strong\u003e","toggleIcon":"plus","ubCustomCSS":"selector { \nfont-size: 1.5rem;\n}"} -->
 <!-- wp:paragraph {"placeholder":"Panel content"} -->
 <p>Many advocates and organization leaders indicated assisting with protective orders is a a service that their organization provides to survivors.</p>
@@ -2687,13 +2735,13 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":244,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/AdvocateAssistanceWithProtectionOrders.png" alt="Chart of percentage of advocates who assist with protection orders." class="wp-image-244"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/AdvocateAssistanceWithProtectionOrders.png" alt="Chart of percentage of advocates who assist with protection orders." class="wp-image-244"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":245,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/OrganizationLeadersAssistWithProtectionOrdersChart.png" alt="Chart of organization leaders indicating advocates assist with protection orders." class="wp-image-245"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/OrganizationLeadersAssistWithProtectionOrdersChart.png" alt="Chart of organization leaders indicating advocates assist with protection orders." class="wp-image-245"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -2719,8 +2767,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-30 03:48:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-30 03:48:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-16 04:50:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-16 04:50:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-17 02:00:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-17 02:00:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[landscape-of-domestic-violence-services]]></wp:post_name>
@@ -2733,7 +2781,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[UPL Challenges]]></title>
-		<link>https://34.46.250.79/?page_id=42</link>
+		<link>https://uplpolicytoolkit.org/?page_id=42</link>
 		<pubDate>Fri, 30 Aug 2024 03:49:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=42</guid>
@@ -3589,7 +3637,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Interest in Reform]]></title>
-		<link>https://34.46.250.79/?page_id=44</link>
+		<link>https://uplpolicytoolkit.org/?page_id=44</link>
 		<pubDate>Fri, 30 Aug 2024 03:51:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=44</guid>
@@ -3607,7 +3655,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":176,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/DV-Advocate-Interest-Pie-Chart.png" alt="" class="wp-image-176"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/DV-Advocate-Interest-Pie-Chart.png" alt="" class="wp-image-176"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
@@ -3649,7 +3697,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":179,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/DV-Advocate-Advice-Helpful-Pie-Chart.png" alt="" class="wp-image-179"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/DV-Advocate-Advice-Helpful-Pie-Chart.png" alt="" class="wp-image-179"/></figure>
 <!-- /wp:image -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -4013,7 +4061,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Legal Needs of Survivors]]></title>
-		<link>https://34.46.250.79/?page_id=47</link>
+		<link>https://uplpolicytoolkit.org/?page_id=47</link>
 		<pubDate>Fri, 30 Aug 2024 03:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=47</guid>
@@ -4031,23 +4079,23 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":206,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/09/CivilLegalNeedsOfSurvivors-1024x466.png" alt="A chart of civil legal needs reported by domestic violence survivors." class="wp-image-206"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CivilLegalNeedsOfSurvivors-1024x466.png" alt="A chart of civil legal needs reported by domestic violence survivors." class="wp-image-206"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":207,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/CivilLegalNeedsTable.png" alt="A table of civil legal needs identified by DV advocates." class="wp-image-207"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/CivilLegalNeedsTable.png" alt="A table of civil legal needs identified by DV advocates." class="wp-image-207"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":208,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/09/AdvocateInterestInLegalTrainingChart-1024x612.png" alt="Chart of advocate interest in civil legal training." class="wp-image-208"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/AdvocateInterestInLegalTrainingChart-1024x612.png" alt="Chart of advocate interest in civil legal training." class="wp-image-208"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":209,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/09/ChartOfAdvocateTrainingInterestVSSurvivorNeeds-1024x532.png" alt="Chart of survivor needs vs advocate interest in assisting." class="wp-image-209"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/ChartOfAdvocateTrainingInterestVSSurvivorNeeds-1024x532.png" alt="Chart of survivor needs vs advocate interest in assisting." class="wp-image-209"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -4065,7 +4113,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":212,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/AdvocateInterestInTrainingOnProtectiveOrdersChart.png" alt="A chart of advocate interest in training on protective orders." class="wp-image-212"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/AdvocateInterestInTrainingOnProtectiveOrdersChart.png" alt="A chart of advocate interest in training on protective orders." class="wp-image-212"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
@@ -4125,7 +4173,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":214,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnCustodyChart.png" alt="Chart of advocate interest in training on custody." class="wp-image-214"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnCustodyChart.png" alt="Chart of advocate interest in training on custody." class="wp-image-214"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4133,7 +4181,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":215,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnDivorceChart.png" alt="Chart of advocate interest in training on divorce." class="wp-image-215"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnDivorceChart.png" alt="Chart of advocate interest in training on divorce." class="wp-image-215"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
@@ -4177,7 +4225,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":216,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnEvictionChart.png" alt="Chart of advocate interest in training on eviction." class="wp-image-216"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnEvictionChart.png" alt="Chart of advocate interest in training on eviction." class="wp-image-216"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4185,7 +4233,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":217,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnPropertyProtection.png" alt="Chart of advocate interest in training on property protection." class="wp-image-217"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnPropertyProtection.png" alt="Chart of advocate interest in training on property protection." class="wp-image-217"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4193,7 +4241,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":218,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnHousingDebt.png" alt="Chart of advocate interest in training on housing debt." class="wp-image-218"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnHousingDebt.png" alt="Chart of advocate interest in training on housing debt." class="wp-image-218"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4201,7 +4249,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":219,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnForeclosure.png" alt="Chart of advocate interest in training on foreclosure." class="wp-image-219"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnForeclosure.png" alt="Chart of advocate interest in training on foreclosure." class="wp-image-219"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
@@ -4277,7 +4325,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":220,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnImmigration.png" alt="" class="wp-image-220"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnImmigration.png" alt="" class="wp-image-220"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
@@ -4339,7 +4387,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":221,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnCreditCardDebt.png" alt="Chart of advocate interest in training on credit card debt." class="wp-image-221"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnCreditCardDebt.png" alt="Chart of advocate interest in training on credit card debt." class="wp-image-221"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4347,7 +4395,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":222,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnMedicalDebt.png" alt="Chart of advocate interest in training on medical debt." class="wp-image-222"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnMedicalDebt.png" alt="Chart of advocate interest in training on medical debt." class="wp-image-222"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
@@ -4409,7 +4457,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":223,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnEmployment.png" alt="Chart of advocate interest in training on employment." class="wp-image-223"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnEmployment.png" alt="Chart of advocate interest in training on employment." class="wp-image-223"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4417,7 +4465,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":224,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnBenefits.png" alt="Chart of advocate interest in training on benefits." class="wp-image-224"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnBenefits.png" alt="Chart of advocate interest in training on benefits." class="wp-image-224"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -4425,7 +4473,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":225,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/InterestInTrainingOnOtherCivilNeeds.png" alt="Chart of advocate interest in training on other civil legal needs." class="wp-image-225"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/InterestInTrainingOnOtherCivilNeeds.png" alt="Chart of advocate interest in training on other civil legal needs." class="wp-image-225"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
@@ -4463,7 +4511,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Training Recommendations]]></title>
-		<link>https://34.46.250.79/?page_id=49</link>
+		<link>https://uplpolicytoolkit.org/?page_id=49</link>
 		<pubDate>Fri, 30 Aug 2024 03:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=49</guid>
@@ -4485,7 +4533,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":227,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/TrainingTopicsTable.png" alt="Table of training topics advocates receive." class="wp-image-227"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/TrainingTopicsTable.png" alt="Table of training topics advocates receive." class="wp-image-227"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
@@ -4539,7 +4587,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":228,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/09/SpecializedLegalTrainingTable-1024x278.png" alt="Table of specialized legal training for advocates." class="wp-image-228"/></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/SpecializedLegalTrainingTable-1024x278.png" alt="Table of specialized legal training for advocates." class="wp-image-228"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:columns -->
@@ -4567,7 +4615,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":229,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/TrainingTopicsToIncreaseConfidenceCharts.png" alt="Charts of topics advocates said would increase confidence." class="wp-image-229"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/TrainingTopicsToIncreaseConfidenceCharts.png" alt="Charts of topics advocates said would increase confidence." class="wp-image-229"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
@@ -4575,7 +4623,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":230,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/TimeForTrainingChart.png" alt="Chart of time advocates have available for training each month." class="wp-image-230"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/TimeForTrainingChart.png" alt="Chart of time advocates have available for training each month." class="wp-image-230"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
@@ -4591,11 +4639,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":231,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/MotivationForTrainingCharts.png" alt="Charts of motivations for advocate training." class="wp-image-231"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/MotivationForTrainingCharts.png" alt="Charts of motivations for advocate training." class="wp-image-231"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":232,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://34.46.250.79/wp-content/uploads/2024/09/SkillbuildingMotivationsChart.png" alt="Chart of skill building motivations for advocates." class="wp-image-232"/></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/SkillbuildingMotivationsChart.png" alt="Chart of skill building motivations for advocates." class="wp-image-232"/></figure>
 <!-- /wp:image -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->]]></content:encoded>
@@ -4617,7 +4665,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Best Practices]]></title>
-		<link>https://34.46.250.79/?page_id=51</link>
+		<link>https://uplpolicytoolkit.org/?page_id=51</link>
 		<pubDate>Fri, 30 Aug 2024 03:54:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=51</guid>
@@ -5701,7 +5749,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[UPL Database]]></title>
-		<link>https://34.46.250.79/?page_id=53</link>
+		<link>https://uplpolicytoolkit.org/?page_id=53</link>
 		<pubDate>Fri, 30 Aug 2024 03:55:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=53</guid>
@@ -5711,7 +5759,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"spacing":{"margin":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
-<p style="margin-right:var(--wp--preset--spacing--30);margin-left:var(--wp--preset--spacing--30)">Questions about UPL? Check out our <a href="https://34.46.250.79/?page_id=57" data-type="page" data-id="57">FAQ Section</a>.</p>
+<p style="margin-right:var(--wp--preset--spacing--30);margin-left:var(--wp--preset--spacing--30)">Questions about UPL? Check out our <a href="https://uplpolicytoolkit.org/?page_id=57" data-type="page" data-id="57">FAQ Section</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"2rem"}},"fontFamily":"system-sans-serif"} -->
@@ -5737,7 +5785,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Methodology and Research Findings]]></title>
-		<link>https://34.46.250.79/?page_id=55</link>
+		<link>https://uplpolicytoolkit.org/?page_id=55</link>
 		<pubDate>Fri, 30 Aug 2024 03:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=55</guid>
@@ -5757,7 +5805,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
-<p style="font-size:1.5rem">Learn more about <a href="https://34.46.250.79/?page_id=42" data-type="page" data-id="42">Research Question 1</a>.</p>
+<p style="font-size:1.5rem">Learn more about <a href="https://uplpolicytoolkit.org/?page_id=42" data-type="page" data-id="42">Research Question 1</a>.</p>
 <!-- /wp:paragraph -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -5769,7 +5817,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
-<p style="font-size:1.5rem">Learn more about <a href="https://34.46.250.79/?page_id=42" data-type="page" data-id="42">Research Question 2</a>.</p>
+<p style="font-size:1.5rem">Learn more about <a href="https://uplpolicytoolkit.org/?page_id=42" data-type="page" data-id="42">Research Question 2</a>.</p>
 <!-- /wp:paragraph -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -5781,7 +5829,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
-<p style="font-size:1.5rem">Learn more about <a href="https://34.46.250.79/?page_id=42" data-type="page" data-id="42">Research Question 3</a>.</p>
+<p style="font-size:1.5rem">Learn more about <a href="https://uplpolicytoolkit.org/?page_id=42" data-type="page" data-id="42">Research Question 3</a>.</p>
 <!-- /wp:paragraph -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -5793,7 +5841,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
-<p style="font-size:1.5rem">Learn more about <a href="https://34.46.250.79/?page_id=49" data-type="page" data-id="49">Research Question 4</a>.</p>
+<p style="font-size:1.5rem">Learn more about <a href="https://uplpolicytoolkit.org/?page_id=49" data-type="page" data-id="49">Research Question 4</a>.</p>
 <!-- /wp:paragraph -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -5805,7 +5853,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"placeholder":"Panel content","style":{"typography":{"fontSize":"1.5rem"}}} -->
-<p style="font-size:1.5rem">Learn more about <a href="https://34.46.250.79/?page_id=49" data-type="page" data-id="49">Research Question 5</a>.</p>
+<p style="font-size:1.5rem">Learn more about <a href="https://uplpolicytoolkit.org/?page_id=49" data-type="page" data-id="49">Research Question 5</a>.</p>
 <!-- /wp:paragraph -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -5820,8 +5868,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <h3 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#087e8b;font-size:2rem;text-transform:uppercase"><strong>PROJECT BRIEF</strong></h3>
 <!-- /wp:heading -->
 
-<!-- wp:file {"id":201,"href":"https://34.46.250.79/wp-content/uploads/2024/09/Project-Brief.pdf","displayPreview":true,"align":"center"} -->
-<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="https://34.46.250.79/wp-content/uploads/2024/09/Project-Brief.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Project Brief"></object><a id="wp-block-file--media-4096bde0-06da-4377-9311-5e707fbeb26b" href="https://34.46.250.79/wp-content/uploads/2024/09/Project-Brief.pdf">Project Brief</a><a href="https://34.46.250.79/wp-content/uploads/2024/09/Project-Brief.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-4096bde0-06da-4377-9311-5e707fbeb26b">Download</a></div>
+<!-- wp:file {"id":201,"href":"https://uplpolicytoolkit.org/wp-content/uploads/2024/09/Project-Brief.pdf","displayPreview":true,"align":"center"} -->
+<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/Project-Brief.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Project Brief"></object><a id="wp-block-file--media-4096bde0-06da-4377-9311-5e707fbeb26b" href="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/Project-Brief.pdf">Project Brief</a><a href="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/Project-Brief.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-4096bde0-06da-4377-9311-5e707fbeb26b">Download</a></div>
 <!-- /wp:file --></div>
 <!-- /wp:column -->
 
@@ -5836,8 +5884,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:file {"id":200,"href":"https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf","displayPreview":true,"align":"center"} -->
-<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="White Paper_ Building the Toolkit"></object><a id="wp-block-file--media-d83b8b6e-5781-4934-8063-e1158c9755ac" href="https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf">White Paper_ Building the Toolkit</a><a href="https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d83b8b6e-5781-4934-8063-e1158c9755ac">Download</a></div>
+<!-- wp:file {"id":200,"href":"https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf","displayPreview":true,"align":"center"} -->
+<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="White Paper_ Building the Toolkit"></object><a id="wp-block-file--media-d83b8b6e-5781-4934-8063-e1158c9755ac" href="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf">White Paper_ Building the Toolkit</a><a href="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Building-the-Toolkit.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d83b8b6e-5781-4934-8063-e1158c9755ac">Download</a></div>
 <!-- /wp:file --></div>
 <!-- /wp:column -->
 
@@ -5852,14 +5900,14 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
-<!-- wp:file {"id":202,"href":"https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf","displayPreview":true,"align":"center"} -->
-<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="White Paper_ Results and Methodology"></object><a id="wp-block-file--media-d00abcc9-3724-4463-9e26-20eb3c978100" href="https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf">White Paper_ Results and Methodology</a><a href="https://34.46.250.79/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d00abcc9-3724-4463-9e26-20eb3c978100">Download</a></div>
+<!-- wp:file {"id":202,"href":"https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf","displayPreview":true,"align":"center"} -->
+<div class="wp-block-file aligncenter"><object class="wp-block-file__embed" data="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="White Paper_ Results and Methodology"></object><a id="wp-block-file--media-d00abcc9-3724-4463-9e26-20eb3c978100" href="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf">White Paper_ Results and Methodology</a><a href="https://uplpolicytoolkit.org/wp-content/uploads/2024/09/White-Paper_-Results-and-Methodology.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-d00abcc9-3724-4463-9e26-20eb3c978100">Download</a></div>
 <!-- /wp:file --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"#e77823"}}},"color":{"text":"#e77823"},"typography":{"fontSize":"2rem","textTransform":"uppercase"}},"fontFamily":"system-sans-serif"} -->
-<h3 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#e77823;font-size:2rem;text-transform:uppercase"><strong><a href="https://34.46.250.79/?page_id=53" data-type="page" data-id="53">UPL DATA</a></strong></h3>
+<h3 class="wp-block-heading has-text-align-center has-text-color has-link-color has-system-sans-serif-font-family" style="color:#e77823;font-size:2rem;text-transform:uppercase"><strong><a href="https://uplpolicytoolkit.org/?page_id=53" data-type="page" data-id="53">UPL DATA</a></strong></h3>
 <!-- /wp:heading --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
@@ -5881,7 +5929,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[FAQs]]></title>
-		<link>https://34.46.250.79/?page_id=57</link>
+		<link>https://uplpolicytoolkit.org/?page_id=57</link>
 		<pubDate>Fri, 30 Aug 2024 03:56:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=57</guid>
@@ -5956,7 +6004,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#414bb2"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://34.46.250.79/?page_id=53" style="background-color:#414bb2">Click here for more information</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="https://uplpolicytoolkit.org/?page_id=53" style="background-color:#414bb2">Click here for more information</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 <!-- /wp:ub/content-toggle-panel-block -->
@@ -6039,7 +6087,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:ub/content-toggle-block {"blockID":"64250d22-6e0f-4e52-85be-1de9060959c7","theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","toggleIcon":"plus"} -->
 <!-- wp:ub/content-toggle-panel-block {"theme":"#f1f1f1","collapsed":true,"titleColor":"#000000","panelTitle":"How was this research conducted and how was the data collected?","toggleIcon":"plus","blockID":"2e32f74f-d592-48a9-9145-5f6591fa5a07"} -->
 <!-- wp:paragraph {"placeholder":"Panel content"} -->
-<p>We interviewed and surveyed DV advocates, DV organization leadership, and subject-matter experts across the country from Spring 2023 to Winter 2023. We also conducted legal research to create our <a href="https://34.46.250.79/?page_id=53" data-type="page" data-id="53">UPL database</a>. Visit our <a href="https://34.46.250.79/?page_id=55" data-type="page" data-id="55">methodology page</a> to learn more.</p>
+<p>We interviewed and surveyed DV advocates, DV organization leadership, and subject-matter experts across the country from Spring 2023 to Winter 2023. We also conducted legal research to create our <a href="https://uplpolicytoolkit.org/?page_id=53" data-type="page" data-id="53">UPL database</a>. Visit our <a href="https://uplpolicytoolkit.org/?page_id=55" data-type="page" data-id="55">methodology page</a> to learn more.</p>
 <!-- /wp:paragraph -->
 <!-- /wp:ub/content-toggle-panel-block -->
 <!-- /wp:ub/content-toggle-block -->
@@ -6107,7 +6155,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[About Us]]></title>
-		<link>https://34.46.250.79/?page_id=59</link>
+		<link>https://uplpolicytoolkit.org/?page_id=59</link>
 		<pubDate>Fri, 30 Aug 2024 03:56:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?page_id=59</guid>
@@ -6221,7 +6269,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[UPL toolkit header]]></title>
-		<link>https://34.46.250.79/?p=65</link>
+		<link>https://uplpolicytoolkit.org/?p=65</link>
 		<pubDate>Fri, 30 Aug 2024 07:49:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=65</guid>
@@ -6259,7 +6307,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL home header]]></title>
-		<link>https://34.46.250.79/?p=111</link>
+		<link>https://uplpolicytoolkit.org/?p=111</link>
 		<pubDate>Wed, 04 Sep 2024 04:52:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=111</guid>
@@ -6297,7 +6345,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL FAQ header]]></title>
-		<link>https://34.46.250.79/?p=113</link>
+		<link>https://uplpolicytoolkit.org/?p=113</link>
 		<pubDate>Wed, 04 Sep 2024 04:54:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=113</guid>
@@ -6335,7 +6383,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL landscape header]]></title>
-		<link>https://34.46.250.79/?p=127</link>
+		<link>https://uplpolicytoolkit.org/?p=127</link>
 		<pubDate>Wed, 04 Sep 2024 06:36:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=127</guid>
@@ -6373,7 +6421,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL challenges header]]></title>
-		<link>https://34.46.250.79/?p=129</link>
+		<link>https://uplpolicytoolkit.org/?p=129</link>
 		<pubDate>Wed, 04 Sep 2024 06:40:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=129</guid>
@@ -6411,7 +6459,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL interest header]]></title>
-		<link>https://34.46.250.79/?p=131</link>
+		<link>https://uplpolicytoolkit.org/?p=131</link>
 		<pubDate>Wed, 04 Sep 2024 06:42:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=131</guid>
@@ -6449,7 +6497,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[OrganizationLeadersAssistWithProtectionOrdersChart]]></title>
-		<link>https://34.46.250.79/?attachment_id=245</link>
+		<link>https://uplpolicytoolkit.org/?attachment_id=245</link>
 		<pubDate>Sat, 14 Sep 2024 04:58:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/wp-content/uploads/2024/09/OrganizationLeadersAssistWithProtectionOrdersChart.png</guid>
@@ -6470,7 +6518,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://34.46.250.79/wp-content/uploads/2024/09/OrganizationLeadersAssistWithProtectionOrdersChart.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://uplpolicytoolkit.org/wp-content/uploads/2024/09/OrganizationLeadersAssistWithProtectionOrdersChart.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/OrganizationLeadersAssistWithProtectionOrdersChart.png]]></wp:meta_value>
@@ -6482,30 +6530,30 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://34.46.250.79/?p=4</link>
+		<link>https://uplpolicytoolkit.org/?p=4</link>
 		<pubDate>Thu, 20 Jun 2024 22:01:01 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=4</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":38,"url":"https://34.46.250.79/?page_id=38","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":38,"url":"https://uplpolicytoolkit.org/?page_id=38","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Landscape of Domestic Violence Services","type":"page","id":40,"url":"https://34.46.250.79/?page_id=40","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Landscape of Domestic Violence Services","type":"page","id":40,"url":"https://uplpolicytoolkit.org/?page_id=40","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"UPL Challenges","type":"page","id":42,"url":"https://34.46.250.79/?page_id=42","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"UPL Challenges","type":"page","id":42,"url":"https://uplpolicytoolkit.org/?page_id=42","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Interest in Reform","type":"page","id":44,"url":"https://34.46.250.79/?page_id=44","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Interest in Reform","type":"page","id":44,"url":"https://uplpolicytoolkit.org/?page_id=44","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Legal Needs of Survivors","type":"page","id":47,"url":"https://34.46.250.79/?page_id=47","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Legal Needs of Survivors","type":"page","id":47,"url":"https://uplpolicytoolkit.org/?page_id=47","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Training Recommendations","type":"page","id":49,"url":"https://34.46.250.79/?page_id=49","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Training Recommendations","type":"page","id":49,"url":"https://uplpolicytoolkit.org/?page_id=49","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Best Practices","type":"page","id":51,"url":"https://34.46.250.79/?page_id=51","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Best Practices","type":"page","id":51,"url":"https://uplpolicytoolkit.org/?page_id=51","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"UPL Database","type":"page","id":53,"url":"https://34.46.250.79/?page_id=53","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"UPL Database","type":"page","id":53,"url":"https://uplpolicytoolkit.org/?page_id=53","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"FAQs","type":"page","id":57,"url":"https://34.46.250.79/?page_id=57","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"FAQs","type":"page","id":57,"url":"https://uplpolicytoolkit.org/?page_id=57","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","id":59,"url":"https://34.46.250.79/?page_id=59","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"About Us","type":"page","id":59,"url":"https://uplpolicytoolkit.org/?page_id=59","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-20 22:01:01]]></wp:post_date>
@@ -6524,18 +6572,18 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://34.46.250.79/?p=6</link>
+		<link>https://uplpolicytoolkit.org/?p=6</link>
 		<pubDate>Fri, 21 Jun 2024 07:26:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}},"blocks":{"core\/post-content":{"css":"margin-left: 3vw;\nmargin-right: 3vw;"},"core\/pullquote":{"typography":{"fontStyle":"italic","fontWeight":"300","fontSize":"1rem"},"spacing":{"margin":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2024-06-21 07:26:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-06-21 07:26:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-03 01:26:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-03 01:26:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-17 01:21:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-17 01:21:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfour]]></wp:post_name>
@@ -6549,7 +6597,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						</item>
 					<item>
 		<title><![CDATA[UPL Toolkit Template]]></title>
-		<link>https://34.46.250.79/?p=104</link>
+		<link>https://uplpolicytoolkit.org/?p=104</link>
 		<pubDate>Wed, 04 Sep 2024 04:37:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=104</guid>
@@ -6582,7 +6630,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-faqs]]></title>
-		<link>https://34.46.250.79/?p=115</link>
+		<link>https://uplpolicytoolkit.org/?p=115</link>
 		<pubDate>Wed, 04 Sep 2024 04:56:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=115</guid>
@@ -6615,7 +6663,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Front Page]]></title>
-		<link>https://34.46.250.79/?p=121</link>
+		<link>https://uplpolicytoolkit.org/?p=121</link>
 		<pubDate>Wed, 04 Sep 2024 05:11:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=121</guid>
@@ -6658,7 +6706,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL legal needs header]]></title>
-		<link>https://34.46.250.79/?p=133</link>
+		<link>https://uplpolicytoolkit.org/?p=133</link>
 		<pubDate>Wed, 04 Sep 2024 06:44:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=133</guid>
@@ -6696,7 +6744,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL training header]]></title>
-		<link>https://34.46.250.79/?p=135</link>
+		<link>https://uplpolicytoolkit.org/?p=135</link>
 		<pubDate>Wed, 04 Sep 2024 06:47:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=135</guid>
@@ -6734,7 +6782,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL best practices header]]></title>
-		<link>https://34.46.250.79/?p=137</link>
+		<link>https://uplpolicytoolkit.org/?p=137</link>
 		<pubDate>Wed, 04 Sep 2024 06:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=137</guid>
@@ -6772,7 +6820,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL database header]]></title>
-		<link>https://34.46.250.79/?p=139</link>
+		<link>https://uplpolicytoolkit.org/?p=139</link>
 		<pubDate>Wed, 04 Sep 2024 06:51:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=139</guid>
@@ -6810,7 +6858,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL publications header]]></title>
-		<link>https://34.46.250.79/?p=141</link>
+		<link>https://uplpolicytoolkit.org/?p=141</link>
 		<pubDate>Wed, 04 Sep 2024 06:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=141</guid>
@@ -6848,7 +6896,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL about header]]></title>
-		<link>https://34.46.250.79/?p=143</link>
+		<link>https://uplpolicytoolkit.org/?p=143</link>
 		<pubDate>Wed, 04 Sep 2024 06:55:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=143</guid>
@@ -6886,7 +6934,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-landscape-of-domestic-violence-services]]></title>
-		<link>https://34.46.250.79/?p=145</link>
+		<link>https://uplpolicytoolkit.org/?p=145</link>
 		<pubDate>Wed, 04 Sep 2024 06:57:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=145</guid>
@@ -6929,7 +6977,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-upl-challenges]]></title>
-		<link>https://34.46.250.79/?p=147</link>
+		<link>https://uplpolicytoolkit.org/?p=147</link>
 		<pubDate>Wed, 04 Sep 2024 06:59:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=147</guid>
@@ -6972,7 +7020,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-interest-in-reform]]></title>
-		<link>https://34.46.250.79/?p=149</link>
+		<link>https://uplpolicytoolkit.org/?p=149</link>
 		<pubDate>Wed, 04 Sep 2024 07:01:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=149</guid>
@@ -7015,7 +7063,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-legal-needs-of-survivors]]></title>
-		<link>https://34.46.250.79/?p=151</link>
+		<link>https://uplpolicytoolkit.org/?p=151</link>
 		<pubDate>Wed, 04 Sep 2024 07:02:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=151</guid>
@@ -7058,7 +7106,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-training-recommendations]]></title>
-		<link>https://34.46.250.79/?p=153</link>
+		<link>https://uplpolicytoolkit.org/?p=153</link>
 		<pubDate>Wed, 04 Sep 2024 07:04:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=153</guid>
@@ -7101,7 +7149,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-best-practices]]></title>
-		<link>https://34.46.250.79/?p=155</link>
+		<link>https://uplpolicytoolkit.org/?p=155</link>
 		<pubDate>Wed, 04 Sep 2024 07:05:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=155</guid>
@@ -7144,7 +7192,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-upl-database]]></title>
-		<link>https://34.46.250.79/?p=157</link>
+		<link>https://uplpolicytoolkit.org/?p=157</link>
 		<pubDate>Wed, 04 Sep 2024 07:06:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=157</guid>
@@ -7187,7 +7235,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-white-paper-and-publications]]></title>
-		<link>https://34.46.250.79/?p=159</link>
+		<link>https://uplpolicytoolkit.org/?p=159</link>
 		<pubDate>Wed, 04 Sep 2024 07:09:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=159</guid>
@@ -7230,7 +7278,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[page-about-us]]></title>
-		<link>https://34.46.250.79/?p=161</link>
+		<link>https://uplpolicytoolkit.org/?p=161</link>
 		<pubDate>Wed, 04 Sep 2024 07:10:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=161</guid>
@@ -7273,7 +7321,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>https://34.46.250.79/?p=39</link>
+		<link>https://uplpolicytoolkit.org/?p=39</link>
 		<pubDate>Fri, 30 Aug 2024 03:45:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=39</guid>
@@ -7305,7 +7353,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>https://34.46.250.79/?p=63</link>
+		<link>https://uplpolicytoolkit.org/?p=63</link>
 		<pubDate>Fri, 30 Aug 2024 04:50:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=63</guid>
@@ -7315,19 +7363,19 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-group alignfull has-small-font-size"><!-- wp:columns {"verticalAlignment":null} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/07/i4J-Logo-1024x338.png" alt="Innovation for Justice logo." class="wp-image-20"/></figure>
+<figure class="wp-block-image size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/07/i4J-Logo-1024x338.png" alt="Innovation for Justice logo." class="wp-image-20"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":21,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/07/COLAW_RGB_Primary-1024x264.png" alt="University of Arizona James E. Rogers College of Law" class="wp-image-21"/></figure>
+<figure class="wp-block-image size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/07/COLAW_RGB_Primary-1024x264.png" alt="University of Arizona James E. Rogers College of Law" class="wp-image-21"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":22,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://34.46.250.79/wp-content/uploads/2024/07/Eccles_Horz_Transparent-1024x264.png" alt="Logo for Eccles School of Business at the University of Utah." class="wp-image-22"/></figure>
+<figure class="wp-block-image size-large"><img src="https://uplpolicytoolkit.org/wp-content/uploads/2024/07/Eccles_Horz_Transparent-1024x264.png" alt="Logo for Eccles School of Business at the University of Utah." class="wp-image-22"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -7365,7 +7413,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[UPL Header]]></title>
-		<link>https://34.46.250.79/?p=84</link>
+		<link>https://uplpolicytoolkit.org/?p=84</link>
 		<pubDate>Tue, 03 Sep 2024 05:40:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=84</guid>
@@ -7405,7 +7453,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 							</item>
 					<item>
 		<title><![CDATA[Home page header]]></title>
-		<link>https://34.46.250.79/?p=94</link>
+		<link>https://uplpolicytoolkit.org/?p=94</link>
 		<pubDate>Wed, 04 Sep 2024 02:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=94</guid>
@@ -7441,7 +7489,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 						</item>
 					<item>
 		<title><![CDATA[FAQ header]]></title>
-		<link>https://34.46.250.79/?p=95</link>
+		<link>https://uplpolicytoolkit.org/?p=95</link>
 		<pubDate>Wed, 04 Sep 2024 02:02:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://34.46.250.79/?p=95</guid>
